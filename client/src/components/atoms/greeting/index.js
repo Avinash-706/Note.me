@@ -6,7 +6,7 @@ function Greeting() {
   return (
     <section className={styles.container}>
       <h2>
-        Hello, <span>Sajal!👋🏼</span>
+        Hello, <span>Avinash!👋🏼</span>
       </h2>
       <p>All your notes are here, in one place!</p>
     </section>
